@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Oasis_BMI_Calculator", "Oasis_BMI_Calculator.pyproj", "{12F28B80-F2BF-4752-B34C-22F260A056D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F28B80-F2BF-4752-B34C-22F260A056D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F28B80-F2BF-4752-B34C-22F260A056D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB155CB9-3750-45E6-A1D4-EA8C4EB548B3}
+	EndGlobalSection
+EndGlobal
